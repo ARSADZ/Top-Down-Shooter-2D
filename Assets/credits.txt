@@ -1,0 +1,3 @@
+space ship https://opengameart.org/content/space-ship-shooter-pixel-art-assets
+world sprite https://opengameart.org/content/zelda-like-tilesets-and-sprites
+font https://opengameart.org/content/minimalist-pixel-fonts
